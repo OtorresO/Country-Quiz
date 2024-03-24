@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of Australia?",
+        "answer": "Canberra",
+        "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"]
+      },
+      {
+        "id": 2,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answer": "Japan",
+        "options": ["China", "South Korea", "India", "Japan"]
+      },
+      {
+        "id": 3,
+        "question": "What is the largest country in South America by land area?",
+        "answer": "Brazil",
+        "options": ["Argentina", "Colombia", "Peru", "Brazil"]
+      },
+      {
+        "id": 4,
+        "question": "Which African country is famous for its pyramids?",
+        "answer": "Egypt",
+        "options": ["Morocco", "Kenya", "Nigeria", "Egypt"]
+      },
+      {
+        "id": 5,
+        "question": "What is the national language of Brazil?",
+        "answer": "Portuguese",
+        "options": ["Spanish", "French", "Portuguese", "Italian"]
+      },
+      {
+        "id": 6,
+        "question": "Which Asian country is known as the Land of Smiles?",
+        "answer": "Thailand",
+        "options": ["Japan", "China", "South Korea", "Thailand"]
+      },
+      {
+        "id": 7,
+        "question": "Which European country is famous for its tulips and windmills?",
+        "answer": "Netherlands",
+        "options": ["Germany", "France", "Italy", "Netherlands"]
+      },
+      {
+        "id": 8,
+        "question": "Which country in Oceania is known for its kiwi bird?",
+        "answer": "New Zealand",
+        "options": ["Fiji", "Australia", "New Zealand", "Papua New Guinea"]
+      },
+      {
+        "id": 9,
+        "question": "What is the smallest country in the world by land area?",
+        "answer": "Vatican City",
+        "options": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"]
+      },
+      {
+        "id": 10,
+        "question": "Which North American country has a maple leaf on its flag?",
+        "answer": "Canada",
+        "options": ["United States", "Mexico", "Canada", "Cuba"]
+      },
+      {
+        "id": 11,
+        "question": "Which South American country is known for the Andes Mountains?",
+        "answer": "Peru",
+        "options": ["Chile", "Argentina", "Bolivia", "Peru"]
+      },
+      {
+        "id": 12,
+        "question": "Which African country is known as the Rainbow Nation?",
+        "answer": "South Africa",
+        "options": ["Kenya", "Nigeria", "Egypt", "South Africa"]
+      },
+      {
+        "id": 13,
+        "question": "Which European country is famous for the Leaning Tower of Pisa?",
+        "answer": "Italy",
+        "options": ["Spain", "Greece", "France", "Italy"]
+      },
+      {
+        "id": 14,
+        "question": "Which country in Asia is known for its Bollywood film industry?",
+        "answer": "India",
+        "options": ["China", "Japan", "South Korea", "India"]
+      },
+      {
+        "id": 15,
+        "question": "Which country in Oceania is known for its Maori culture?",
+        "answer": "New Zealand",
+        "options": ["Australia", "New Zealand", "Fiji", "Papua New Guinea"]
+      },
+      {
+        "id": 16,
+        "question": "Which Caribbean country is known for its cigars?",
+        "answer": "Cuba",
+        "options": ["Jamaica", "Bahamas", "Cuba", "Puerto Rico"]
+      },
+      {
+        "id": 17,
+        "question": "Which North American country is known for its maple syrup production?",
+        "answer": "Canada",
+        "options": ["United States", "Mexico", "Canada", "Greenland"]
+      },
+      {
+        "id": 18,
+        "question": "Which South American country is known for its tango dance?",
+        "answer": "Argentina",
+        "options": ["Chile", "Peru", "Brazil", "Argentina"]
+      },
+      {
+        "id": 19,
+        "question": "Which African country is known as the Pearl of Africa?",
+        "answer": "Uganda",
+        "options": ["Nigeria", "Egypt", "South Africa", "Uganda"]
+      },
+      {
+        "id": 20,
+        "question": "Which European country is known for its fjords?",
+        "answer": "Norway",
+        "options": ["Denmark", "Sweden", "Finland", "Norway"]
+      }
+    ]
+  }
+  
